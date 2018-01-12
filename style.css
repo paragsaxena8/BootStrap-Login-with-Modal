@@ -1,0 +1,18 @@
+body{
+ background: url(http://iamparag.cf/images/bg/bg.jpg) no-repeat center center fixed;
+background-size: cover;
+
+}
+.hero{
+    color: #fff;
+    margin-top: 20%;
+    text-align: center;
+}
+
+.ima{
+    width: 200px;
+    height: 100px;
+    font-family: cursive;
+    font-size: 60px;
+
+}
